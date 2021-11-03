@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HousePriceEstimator
+comment1.params=number
+comment1.target=void\ web_scrape(int)
+comment2.params=index
+comment2.target=java.util.ArrayList\ getHouse(int)
+comment3.params=
+comment3.target=int\ count()
+comment4.params=name
+comment4.target=void\ ExportDateToCSV(java.lang.String)
+comment5.params=bedrooms\ bathrooms\ living_rooms
+comment5.target=void\ multipleRegression(int,\ int,\ int)
+numComments=6
