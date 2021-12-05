@@ -7,7 +7,7 @@ The program takes a location as input and can scrape a specific number of house 
 - Distance from a station
 - Number of bedrooms/bathrooms/living rooms
 
-Multiple regression can then be used to extrapolate the cost of a house in that location, given the variables above. (Currently in excel)
+Multiple regression can then be used to extrapolate the cost of a house in that location, given the variables above. (Currently using built-in excel function)
 
 ## Usage
 ```shell
