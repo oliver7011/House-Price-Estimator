@@ -26,6 +26,7 @@ java HousePriceEstimator
 
 ## To Do:
 - Integrate Multiple Regression feature into program
+- Visual graphing to show results from web-scrape
 - Create GUI
 - Allow users to enter specific postcode
 - Additional characteristics (e.g plot size)
