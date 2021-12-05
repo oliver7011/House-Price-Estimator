@@ -9,6 +9,16 @@ The program takes a location as input and can scrape a specific number of house 
 
 Multiple regression can then be used to extrapolate the cost of a house in that location, given the variables above. (Currently in excel)
 
+## Usage
+```shell
+javac HousePriceEstimator.java
+```
+```shell
+java HousePriceEstimator
+```
+**URL must be set internally**
+
+
 ### Example CSV output:
 <p align="center">
   <img src="https://github.com/oliver7011/House-Price-Estimator/blob/main/example_csvOutput.PNG" title="hover text">
